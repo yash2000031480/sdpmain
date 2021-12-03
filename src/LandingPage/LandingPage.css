@@ -9,10 +9,11 @@
     font-weight: bold;
 }
 .footer{
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    /* position: fixed;
+    bottom: 0; */
+    /* width: 100%; */
     background-color: orange;
+    /* display: flex; */
     /* padding: 20px; */
 }
 .call{
@@ -20,4 +21,11 @@
 }
 .located{
     margin-right: 20px;
+}
+.BidPic{
+    background-image: url("../images/bidpic.jpg");
+     background-size: 1000px;
+    height: 500px;
+    width: 1000px;
+    background-repeat: no-repeat;
 }
