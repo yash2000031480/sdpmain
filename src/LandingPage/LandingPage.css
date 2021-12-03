@@ -1,0 +1,23 @@
+.land-box{
+    display: flex;
+    justify-content: space-between;
+    /* margin:10px; */
+}
+.welcome{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: orange;
+    /* padding: 20px; */
+}
+.call{
+    margin-left: 20px;
+}
+.located{
+    margin-right: 20px;
+}

@@ -1,0 +1,81 @@
+.header{
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding: 12px 0px;
+  background-color: orange;
+  /* margin: 10px 15px; */
+}
+
+.home-page{
+  width: 100%;
+  margin: 0 auto;
+  /* background-color: black; */
+  display: flex;
+  justify-content: center;
+}
+.login-btn{
+  margin-left: 20px;
+}
+.home-btn{
+  padding-top: 10px;
+  font-weight: 500;
+}
+.home-title{
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.form-control {
+  width: 350px;
+  background-color: rgba(136, 144, 158,0.5);
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+
+}
+
+a{
+  text-decoration: none;
+  /* color: black; */
+  color: #219653;
+
+}
+.home-page-cards{
+
+}
+.btn{
+  border: none;
+  border-radius: 2px;
+}
+.home-form-btn {
+  background: #219653;
+  color: #ffffff !important;
+  /* padding: 7px 25px 7px 25px;
+          width: 10em;
+   height: 2.8em; */
+}
+.input-box{
+  display: flex;
+  flex-direction: column;
+}
+.home-page-cards {
+  /* width: 550px; */
+  padding: 20px;
+  align-items: center;
+  /* padding: 12% 18% 12% 18% !important; */
+}
+  .home-page-label{
+    font-weight: 400 !important;
+
+  }
+  .home-page-label {
+  margin-bottom: 3px !important;
+  }
+  .home-fotter {
+    display: flex;
+    justify-content: space-between;
+    /* .nav-link {
+      margin-top: 13px;
+      font-size: 13px; */
+  }
