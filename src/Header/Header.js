@@ -36,8 +36,10 @@ const Header = (props) => {
                     <Link to="/homepage" className="btn home-btn">Home </Link>
                 </div>
                 <div className="mini-head">
+                
                     <button className="signup-btn nav-btn btn" onClick={cartHandler} >Cart</button>
                     <button className="signup-btn nav-btn btn" onClick={logoutHandler} >Logout</button>
+                    
                 </div>
             </div>
         )

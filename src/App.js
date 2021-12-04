@@ -10,6 +10,7 @@ import Faq from './Faq/Faq'
 import Terms from './Terms/Terms'
 import Privacy from './Privacy/Privacy'
 
+
 const App = () => {
   return (
     <>
@@ -22,6 +23,7 @@ const App = () => {
         <Route path="/Faq" component={Faq} />
         <Route path="/Terms" component={Terms} />
         <Route path="/Privacy" component={Privacy} />
+        
 
         {/* <Route path="/forgot_password" exact component={ForgotPassword} /> */}
 
